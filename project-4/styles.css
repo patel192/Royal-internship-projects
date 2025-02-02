@@ -1,0 +1,33 @@
+body{
+    background-image:url('pool-water-background-free-photo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    background: white;
+    height: 20vh;
+    width: 30vw;
+    border-radius: 10px;
+    margin:auto;
+    margin-top: 40vh;
+}
+.screen{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.buttons button{
+    background-color: white;
+    border: white;
+    padding: 0px;
+    cursor:pointer;
+    
+  
+}
+.buttons .first{
+    margin-left: 200px;
+}
+.buttons i{
+    font-size: 25px;
+}
