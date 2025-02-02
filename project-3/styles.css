@@ -1,0 +1,64 @@
+body {
+    background-image: url('5-52330_keyboard-wallpapers-msi-keyboard.jpg');
+    
+}
+
+.container {
+    height: 90vh;
+    width: 60vw;
+    background-color: white;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 30px;
+}
+
+.header {
+    text-align: center;
+    font-size: 28px;
+    font-weight: 600;
+    padding: 8px;
+}
+
+.main {
+    
+    height: 70%;
+    width: 95%;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 30px;
+}
+
+.items {
+   
+    width: 90%;
+    height: 33%;
+    margin: auto;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 2px solid black;
+    
+}
+
+.upper {
+    display: flex;
+    justify-content: space-between;
+
+}
+.upper .policy{
+    padding: 5px;
+    margin-left: 15px;
+}
+.button button{
+    margin-right: 8px;
+    background-color: white;
+    border: white;
+
+    
+}
+.button button:hover{
+    cursor: pointer;
+}
+.lower{
+    margin-top: 8px;
+}
